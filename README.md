@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on full stack web development project
 - 🤔 I’m looking for help with full stack web development
 - 💬 Ask me about full stack web development
-- 📫 How to reach me: Facebook "MARUFUZZAMAN MD"
+- 📫 How to reach me: Facebook ""
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I Love Code
 - About me:
